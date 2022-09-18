@@ -1,0 +1,142 @@
+
+
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-top-right.text-right ul li {
+	margin-left: 20px;
+}
+.slider-inner h4 {
+	font-size: 32px;
+}
+.slider-inner h1 {
+    font-size: 38px;
+}
+.pb-180 {
+	padding-bottom: 135px;
+}
+.pt-180 {
+	padding-top: 135px;
+}
+.team-social ul li {
+	margin-left: 15px;
+}
+.service-wrapper h4 {
+	font-size: 13px;
+	font-weight: 800;
+}
+.subscribe-area input {
+	width: 155px;
+}
+.subscribe-area .btn {
+	font-size: 14px;
+	padding: 12px 15px;
+}
+.footer-social li {
+	margin-right: 15px;
+}
+}
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-top-right.text-right ul li {
+	margin-left: 18px;
+}
+.slider-inner h4 {
+	font-size: 30px;
+}
+.slider-inner h1 {
+	font-size: 32px;
+}
+.progress-area .pt-80 {
+    padding-top: 30px;
+}
+.progress-area .pb-65 {
+    padding-bottom: 25px;
+}
+.progress-area .mrt-5 {
+    margin-right: 0px;
+}
+.contact-details {
+	padding: 60px 75px 40px 60px;
+	border-bottom: 1px solid #4c4c4c;
+}
+}
+/* Extra small devices (portrait phones, less than 576px) */
+@media only screen and (max-width: 767px) {
+.header-top-left ul li {
+	margin-right: 0px;
+}
+.header-top-left ul li a {
+	font-size: 12px;
+}
+.header-top-right.text-right ul li {
+	margin-left: 8px;
+}
+.progress-area .pb-65 {
+	padding-bottom: 25px;
+}
+.progress-area .pt-80 {
+	padding-top: 30px;
+}
+.portfolio-thumb img {
+	width: 100%;
+}
+.video-area .pb-180 {
+    padding-bottom: 85px;
+}
+.video-area .pt-180 {
+    padding-top: 85px;
+}
+.testimonial-inner p {
+	padding: 0;
+}
+.contact-details {
+	padding: 60px 5px 30px 40px;
+	border-bottom: 1px solid #4c4c4c;
+}
+.contact-form {
+	padding: 60px 15px 40px 40px;
+}
+.section-title h2 {
+	font-size: 25px;
+}
+.video-inner h2 {
+	font-size: 25px;
+}
+.counter-area span {
+	margin: 5px 0 0 0px;
+}
+.counter-area i {
+margin: 0
+}
+.counter-area h4 {
+	margin: 5px 0 0 0px;
+}
+.slider-inner h4 {
+	padding-top: 70px;
+}
+.slider-inner h4 {
+	font-size: 24px;
+}
+.slider-inner h1 {
+	font-size: 30px;
+}
+.slider-btn {
+	padding-bottom: 115px;
+}
+.slider-btn a {
+	margin-bottom: 20px;
+}
+#scrollUp {
+	bottom: 21px;
+	right: 10px;
+	padding: 1px 10px;
+	background: #654848;
+}
+}
+/* SM Small Device :410px. */
+@media only screen and (min-width: 410px) and (max-width: 767px) {
+}

@@ -1028,8 +1028,6 @@ label {
 }
 .blog-wrapper:hover .blog-img img {
 	filter: grayscale(0);
-	transform: scale(1.2);
-	-webkit-transform: scale(1.2)
 }
 .blog-date {
 	padding: 5px 10px;
